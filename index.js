@@ -11,7 +11,7 @@ function destructivelyRemoveLastDriver(){
 function destructivelyRemoveFirstDriver(){
   drivers.shift();
 }
-function appendDriver('Broom'){
+function appendDriver(name){
   const drivers = ['Milo', 'Otis', 'Garfield'];
 }
 appendDriver('Broom');
