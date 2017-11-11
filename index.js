@@ -15,3 +15,4 @@ function appendDriver(name){
   const addADriver = [...drivers, name];
 }
 appendDriver('Broom');
+addADriver;
