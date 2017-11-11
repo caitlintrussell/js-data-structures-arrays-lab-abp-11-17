@@ -13,5 +13,5 @@ function destructivelyRemoveFirstDriver(){
 }
 function appendDriver(name){
   const drivers = ['Milo', 'Otis', 'Garfield']
-  const drivers = [...drivers, 'Broom']
+  const moreDrivers = [...drivers, 'Broom']
 }
